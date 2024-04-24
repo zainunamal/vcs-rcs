@@ -1,0 +1,14 @@
+{
+    "name": "rcs/pdam",
+    "description": "ISO Protocol Pdam",
+    "type": "library",
+    "version": "0.0.0.1",
+    "autoload": {
+        "psr-4": {
+            "Rcs\\Pdam\\": "src/"
+        }
+    },
+    "require": {
+        "rcs/Iso8583": "*"
+    }
+}

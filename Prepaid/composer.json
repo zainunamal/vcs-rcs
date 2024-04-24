@@ -1,0 +1,13 @@
+{
+    "name": "rcs/prepaid",
+    "description": "Prepaid Protocol",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rcs\\Prepaid\\": "src/"
+        }
+    },
+    "require": {
+        "rcs/Iso8583": "*"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "rcs/postpaid",
+    "description": "Postpaid Protocol",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rcs\\Postpaid\\": "src/"
+        }
+    },
+    "require": {
+        "rcs/Iso8583": "*"
+    }
+}

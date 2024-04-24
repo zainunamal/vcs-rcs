@@ -1,0 +1,11 @@
+{
+    "name": "rcs/utils",
+    "description": "Iso 8583",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rcs\\Utils\\": "src/"
+        }
+    },
+    "require": {}
+}

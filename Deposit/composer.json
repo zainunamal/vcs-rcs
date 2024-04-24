@@ -1,0 +1,14 @@
+{
+    "name": "rcs/deposit",
+    "description": "Deposit Protocol",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rcs\\Deposit\\": "src/"
+        }
+    },
+    "require": {
+        "rcs/Iso8583": "*",
+        "rcs/Utils": "*"
+    }
+}

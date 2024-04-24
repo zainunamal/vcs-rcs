@@ -1,0 +1,13 @@
+{
+    "name": "rcs/nontaglis",
+    "description": "Nontagigan Listrik  Protocol",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rcs\\Nontaglis\\": "src/"
+        }
+    },
+    "require": {
+        "rcs/Iso8583": "*"
+    }
+}

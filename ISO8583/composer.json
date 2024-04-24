@@ -1,0 +1,12 @@
+{
+    "name": "rcs/iso8583",
+    "description": "Iso 8583",
+    "type": "library",
+    "version": "0.0.0.1",
+    "autoload": {
+        "psr-4": {
+            "Rcs\\Iso8583\\": "src/"
+        }
+    },
+    "require": {}
+}
